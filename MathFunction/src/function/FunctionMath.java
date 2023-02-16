@@ -13,7 +13,7 @@ public class FunctionMath {
 		System.out.println(f);
 		
 		double e=Math.cbrt(a);
-		System.out.println(a);
+		System.out.println(e);
 		
 		
 	}
