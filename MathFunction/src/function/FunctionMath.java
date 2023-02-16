@@ -15,6 +15,9 @@ public class FunctionMath {
 		double e=Math.cbrt(a);
 		System.out.println(e);
 		
+		double x =Math.cbrt(b);
+		System.out.println(x);
+		
 		
 	}
 
