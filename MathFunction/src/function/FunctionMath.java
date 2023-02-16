@@ -12,6 +12,9 @@ public class FunctionMath {
 		int f= (larfrmabc>d)? larfrmabc : d;
 		System.out.println(f);
 		
+		double e=Math.cbrt(a);
+		System.out.println(a);
+		
 		
 	}
 
